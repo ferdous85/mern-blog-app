@@ -1,4 +1,5 @@
 <!-- Backend -->
+
 Technology: NodeJS, ExpressJS, MongoDB, JWT
 [] package.json install.
 [] 'backend' folder create.
@@ -13,15 +14,15 @@ Technology: NodeJS, ExpressJS, MongoDB, JWT
 [] create user with jwt token.
 [] protect func created for protected user.
 [] get single user.
-[] get all user. 
-
+[] get all user.
 
 <!-- Frontend -->
+
 Technology: ReactJS, Redux
 [] create frontend folder.
 [] create react app.
 [] clean up react folder.
-[] Add component folder with Header and footer folder along header.js & footer.js file. 
+[] Add component folder with Header and footer folder along header.js & footer.js file.
 [] install react-bootstrap.
 [] add bootstrap.min.css file and call inside index.js
 [] create nav in header.js file.
@@ -29,4 +30,8 @@ Technology: ReactJS, Redux
 [] create Landing folder in screen folder. landing.js with landing.css also.
 [] Create intro-text and Login-signup button for landing page.
 [] Add react react-router-dom. call react-router-dom in App.js
-[] 
+[] Create mynotes folder andd mynotes.js
+[] create inside component folder MainScreen.js.
+[] use data.js to make note card display
+[] Add Edit and delete button.
+[] Add accordian fun to card body.
