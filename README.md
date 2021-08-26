@@ -1,13 +1,21 @@
 <!-- Backend -->
 
 Technology: NodeJS, ExpressJS, MongoDB, JWT
+
 [x] package.json install.
+
 [x] 'backend' folder create.
+
 [x] package install.
-[] change start script.
-[] server.js file create.
-[] .env create.
-[] port create and test.
+
+[x] change start script. 
+
+[x] server.js file create.
+
+[x] .env create.
+
+[x] port create and test.
+
 [] fake data folder and notes.js file create.
 [] router, models, middleware, controller folder create.
 [] create route and test.
