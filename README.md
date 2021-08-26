@@ -1,9 +1,9 @@
 <!-- Backend -->
 
 Technology: NodeJS, ExpressJS, MongoDB, JWT
-[] package.json install.
-[] 'backend' folder create.
-[] package install.
+[x] package.json install.
+[x] 'backend' folder create.
+[x] package install.
 [] change start script.
 [] server.js file create.
 [] .env create.
@@ -19,9 +19,9 @@ Technology: NodeJS, ExpressJS, MongoDB, JWT
 <!-- Frontend -->
 
 Technology: ReactJS, Redux
-[] create frontend folder.
-[] create react app.
-[] clean up react folder.
+[x] create frontend folder.
+[x] create react app.
+[x] clean up react folder.
 [] Add component folder with Header and footer folder along header.js & footer.js file.
 [] install react-bootstrap.
 [] add bootstrap.min.css file and call inside index.js
