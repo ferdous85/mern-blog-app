@@ -3,7 +3,7 @@
 const Footer = () => {
   return (
     <div>
-      <h1>Footer Area</h1>
+      <h1>All Right reserved @ Dev</h1>
     </div>
   )
 }

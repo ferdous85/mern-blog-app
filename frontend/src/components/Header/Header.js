@@ -25,6 +25,7 @@ const Header = () => {
               <Nav.Link href="/mynotes">My Notes</Nav.Link>
               <NavDropdown title="John Doe" id="navbarScrollingDropdown">
                 <NavDropdown.Item href="#action3">Profile</NavDropdown.Item>
+                <NavDropdown.Item href="#action3">Detali</NavDropdown.Item>
                 <NavDropdown.Item href="#action4">Logout</NavDropdown.Item>
       
               </NavDropdown> 
